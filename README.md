@@ -8,9 +8,6 @@ end of the application that you can see live
 [here](https://real-estate-react-app.onrender.com). You can find the backend repository
 [here.](https://github.com/DamyanBG/real-estate-flask-rest-api)
 
-### Representation of the project in YouTube
-
-https://www.youtube.com/watch?v=dR8qX2cMPcE&t=25s
 
 ## Getting Started
 
@@ -86,21 +83,8 @@ details about contributing you can access
 
 And do not forget to enjoy and have fun!
 
-## Authors
-
-<a href="https://github.com/DamyanBG">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/93829069?v=4" width="100px;" alt=""/>
-</a>
-<a href="https://github.com/tihomirtx88">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/88166066?v=4" width="100px;" alt=""/>
-</a>
 
 ## Used Technologies
 
 Those following tools were used in the project development:
 
-### **Application** ([ReactJS](https://reactjs.org/) + [Sass](https://sass-lang.com/))
-
--   **[ReactDom](https://reactjs.org/docs/react-dom.html)**
--   **[ReactRouter](https://reactrouter.com/en/main)**
--   **[ReactContext](https://reactjs.org/docs/context.html)**
